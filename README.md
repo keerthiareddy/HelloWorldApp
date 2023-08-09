@@ -15,8 +15,6 @@ To deploy the Hello World app, follow these steps:
 3. Push your changes to the `main` branch.
 4. GitHub Actions will automatically trigger a deployment.
 
-For Python:
-- The pipeline installs dependencies (if any) from `requirements.txt`.
-- The app is executed using `python app.py`.
+The app is executed using `python app.py`.
 
 Author: Keerthi A
